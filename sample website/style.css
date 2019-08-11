@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    text-align: right;
+    color: aliceblue;
+    background-color: orange;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 7%;
+    padding-right: 1%;
+    border-bottom: navy 6px solid;
+    border-top: navy 6px solid;
+    
+}
+
+body{
+    background-color: gray;
+}
+
+.nav-bar input[type="submit"]{
+    float: left;
+    border: none;
+    color: white;
+    background-color: gray;    
+    padding: 0.7%;
+    width: 20%;
+    border: 2px aliceblue solid;
+}
+
+.container h1{
+    padding-top: 8%;
+    font-size: 250%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container p{
+    padding: 3%;
+    padding-top: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.image-box{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    
+}
+
+.footer{
+    padding: 2%;
+    text-align: center;
+    background-color: orange;
+}
